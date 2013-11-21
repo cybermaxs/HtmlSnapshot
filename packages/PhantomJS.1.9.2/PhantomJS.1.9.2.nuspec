@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>PhantomJS</id>
+    <version>1.9.2</version>
+    <title>PhantomJS</title>
+    <authors>Ariya Hidayat</authors>
+    <owners>Ariya Hidayat</owners>
+    <licenseUrl>http://www.opensource.org/licenses/bsd-license.php</licenseUrl>
+    <projectUrl>http://phantomjs.org/</projectUrl>
+    <iconUrl>http://wesleyhales.com/images/icons/phantomjs.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>PhantomJS executable</description>
+    <releaseNotes>Fixes in 1.9.2:
+- Fixed graphical artifacts with transparent background on Windows
+- Updated GhostDriver to version 1.0.4</releaseNotes>
+    <copyright />
+    <language />
+    <tags>PhantomJS headless browser</tags>
+  </metadata>
+</package>
