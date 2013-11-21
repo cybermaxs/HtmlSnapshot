@@ -1,7 +1,8 @@
 HtmlSnapshot
 ============
 
-HtmlSnapshot is a proof-of-concept for generating static Html (scriptless) content on IIS/asp.net
+HtmlSnapshot is a proof-of-concept for generating static Html (scriptless) content on IIS/asp.net.
+Concepts shown here could be extended to a more reliable and generic solution.
 
 Run the demo
 --------------
