@@ -7,6 +7,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Samples", "Samples", "{3DE1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcDefaultTemplate", "MvcDefaultTemplate\MvcDefaultTemplate.csproj", "{DE2AA3D7-5FC8-400E-BD3E-D14F0CA9D287}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoMvc.AngularJs", "TodoMvc.AngularJs\TodoMvc.AngularJs.csproj", "{ED8C0215-370B-44E2-8E56-22897931358B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,11 +23,16 @@ Global
 		{DE2AA3D7-5FC8-400E-BD3E-D14F0CA9D287}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE2AA3D7-5FC8-400E-BD3E-D14F0CA9D287}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE2AA3D7-5FC8-400E-BD3E-D14F0CA9D287}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED8C0215-370B-44E2-8E56-22897931358B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED8C0215-370B-44E2-8E56-22897931358B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED8C0215-370B-44E2-8E56-22897931358B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED8C0215-370B-44E2-8E56-22897931358B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{DE2AA3D7-5FC8-400E-BD3E-D14F0CA9D287} = {3DE1AAB6-4E2C-4A63-9524-A262E94824F6}
+		{ED8C0215-370B-44E2-8E56-22897931358B} = {3DE1AAB6-4E2C-4A63-9524-A262E94824F6}
 	EndGlobalSection
 EndGlobal
